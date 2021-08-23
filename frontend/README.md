@@ -1,27 +1,17 @@
-# Frontend
+<h1 align="center">SPA - CRUD com Angular.</h1>
+<p align="center">:snowflake: Fazendo uma SPA com TypeScript e Angular!</p>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.1.
+Uma SPA com objetivo de executar um CRUD, foi um ótimo projeto pra entender todo o sistema de componetização do Angular, de como o build do projeto fica extremamente bem estruturado e organizado com esta funcionalidade, todo o Backend da aplicação foi feito com o NodeJS, e o Frontend feito com Angular e TypeScript.
 
-## Development server
+Foram feitos pequenos tratamentos de erros para o caso da aplicação acabe ficando sem o Backend, porém não foi feito tratamento de erros para o Input de dados do usuário.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+### 🛠 Tecnologias
 
-## Code scaffolding
+As seguintes ferramentas foram usadas na construção do projeto:
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+- [TypeScript](https://www.typescriptlang.org/)
+- [CSS](https://devdocs.io/css/)
+- [NodeJS v16.0.0](https://nodejs.org/en/download/releases/)
+- [Angular v7.20.3](https://angular.io/)
+- [Angular Material](https://material.angular.io/)
+- [asdf](https://asdf-vm.com/)
