@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Red Dead Redemption 2",
+      "price": "189.90"
+    },
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": "15000"
+    },
+    {
+      "name": "Placa de Vídeo RX 570 4GB",
+      "price": "1110.98",
+      "id": 3
+    }
+  ]
+}
