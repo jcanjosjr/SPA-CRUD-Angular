@@ -15,6 +15,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [CSS](https://devdocs.io/css/)
 - [NodeJS v16.0.0](https://nodejs.org/en/download/releases/)
 - [Angular CLI v12.2.1](https://github.com/angular/angular-cli)
-- [Angular v7.20.3](https://angular.io/)
 - [Angular Material](https://material.angular.io/)
 - [asdf](https://asdf-vm.com/)
