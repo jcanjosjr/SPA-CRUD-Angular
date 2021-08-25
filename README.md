@@ -10,7 +10,7 @@ Foram feitos pequenos tratamentos de erros para o caso da aplicação acabe fica
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [TypeScript](https://www.typescriptlang.org/)
+- [TypeScript v4.3.5](https://www.typescriptlang.org/)
 - [json-server v0.16.3](https://www.npmjs.com/package/json-server)
 - [CSS](https://devdocs.io/css/)
 - [NodeJS v16.0.0](https://nodejs.org/en/download/releases/)
