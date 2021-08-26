@@ -17,3 +17,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Angular CLI v12.2.1](https://github.com/angular/angular-cli)
 - [Angular Material](https://material.angular.io/)
 - [asdf](https://asdf-vm.com/)
+
+<img src="https://i.ibb.co/FDDWZpY/projeto-Angular.png">
